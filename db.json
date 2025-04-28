@@ -1,23 +1,25 @@
-"data":[
-    {
-      "nome": "Mario",
-      "cognome": "Rossi",
-      "codiceFiscale": "1234567890qwerty",
-      "indirizzo": "Via Roma, Milano",
-      "telefono": ["3334455666", "3334455667"]
-    },
-    {
-      "nome": "Antonio",
-      "cognome": "Verdi",
-      "codiceFiscale": "0987654321asdfg",
-      "indirizzo": "Via Napoli, Roma",
-      "telefono": ["3331122334"]
-    },
-    {
-      "nome": "Vincenzo",
-      "cognome": "Gialli",
-      "codiceFiscale": "1122334455zxcvb",
-      "indirizzo": "Via Firenze, Napoli",
-      "telefono": ["3337788990", "3337788991", "3337788992"]
-    }
-  ]
+{
+    "data": [
+        {
+          "nome": "Mario",
+          "cognome": "Rossi",
+          "codiceFiscale": "1234567890qwerty",
+          "indirizzo": "Via Roma, Milano",
+          "telefono": ["3334455666", "3334455667"]
+        },
+        {
+          "nome": "Antonio",
+          "cognome": "Verdi",
+          "codiceFiscale": "0987654321asdfg",
+          "indirizzo": "Via Napoli, Roma",
+          "telefono": ["3331122334"]
+        },
+        {
+          "nome": "Vincenzo",
+          "cognome": "Gialli",
+          "codiceFiscale": "1122334455zxcvb",
+          "indirizzo": "Via Firenze, Napoli",
+          "telefono": ["3337788990", "3337788991", "3337788992"]
+        }
+      ]
+}
