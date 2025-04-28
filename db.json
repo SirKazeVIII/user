@@ -1,6 +1,4 @@
 {
-  "data": [
-    {
       "nome": "Mario",
       "cognome": "Rossi",
       "codiceFiscale": "1234567890qwerty",
@@ -22,4 +20,3 @@
       "telefono": ["3337788990", "3337788991", "3337788992"]
     }
   ]
-}
